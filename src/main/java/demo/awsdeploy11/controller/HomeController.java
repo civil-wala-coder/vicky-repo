@@ -12,7 +12,7 @@ public class HomeController {
 
     @GetMapping("/")
     public String getHello(){
-        return "Hello aws !!!!";
+        return "Hello aws  testing dgiosahfg !!!!";
     }
 
 
