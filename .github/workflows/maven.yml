@@ -12,8 +12,6 @@ on:
   push:
     branches: [ "main" ]
 
-env:
-  POSTGRES_URL: ${{ secrets.POSTGRES_URL }}
 
 
 jobs:
